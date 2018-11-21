@@ -1,1 +1,3 @@
 I am now changing this file
+This file was first changed locally and uploaded to GitHub.
+Now it is changed again to do a git Pull via Git locally
